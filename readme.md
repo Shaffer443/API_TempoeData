@@ -1,6 +1,6 @@
 # Tempo e Data com API da openweathermap.org
 
-Modelo paga dados tanto da localização geografica ( através da permissão do usuário para que o naveagdor possa pegar essas dados), e informa tempo, previsões de temperatura minima e máxima, com incones e pode-se também pode-se informar um local que queira saber tais dados.
+Modelo paga dados, tanto da localização geografica ( através da permissão de acesso a esses dados pelo usuário), e informa tempo, previsões de temperatura mínima e máxima, com icones e pode-se também pesquisar e informar uma cidade onde queira saber tais informações.
 
 - Modelo retirado de um card no https://getbootstrap.com
 
@@ -8,4 +8,4 @@ Modelo paga dados tanto da localização geografica ( através da permissão do 
 
 - Api do site https://openweathermap.org
 
-**OBS:** Todos os dados e cadastros são gratítos até então apra consguir suas próprias chaves e modelos.
+**OBS:** Todos os dados são promovidos gratuitamente, mediante cadastro e acesso as suas próprias chaves de autenticação.
